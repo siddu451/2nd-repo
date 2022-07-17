@@ -1,0 +1,7 @@
+this is cat1 file
+this write command in insert mode in vi editor 
+using command is esc i
+esc:w save file
+esc:q quit the file
+esc:wq! forceable save and quit immidiatly
+
